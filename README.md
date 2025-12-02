@@ -10,23 +10,6 @@ The goal of the project is to understand how different boosting models
 perform, how to tune them, and what insights can be gained from
 comparing them.
 
-## Project Structure
-
-    ├── data/
-    │   └── telco_churn.csv
-    ├── notebooks/
-    │   ├── 01_data_preprocessing.ipynb
-    │   ├── 02_modeling.ipynb
-    │   └── 03_model_interpretation.ipynb
-    ├── src/
-    │   ├── preprocessing.py
-    │   ├── modeling.py
-    │   └── utils.py
-    ├── readme.md
-    └── requirements.txt
-
-------------------------------------------------------------------------
-
 ## Methods Used
 
 The experiment focuses on several boosting algorithms: 
